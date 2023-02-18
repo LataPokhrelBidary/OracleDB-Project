@@ -1,6 +1,6 @@
 # OracleDB-Project
 
-Project 1] Raw Data Normalization:
+Project 1] Raw Data Normalization.
 
           1.1] convert raw data to 1NF in Excel.
           1.2] convert above data to 2NF using Draw.io (https://app.diagrams.net).
