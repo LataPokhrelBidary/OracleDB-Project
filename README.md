@@ -1,12 +1,14 @@
 # OracleDB-Project
 
 Project 1] Raw Data Normalization:
+
           1.1] convert raw data to 1NF in Excel.
           1.2] convert above data to 2NF using Draw.io (https://app.diagrams.net).
           1.3] convert above data to 3NF using Draw.io. 
 
 
 Project 2] Create oracle source file (.sql) and run sql query as batch file.
+
           2.1] Make file with sql extension.
           2.2] Start writing sql code on above file.
           2.3] Login in to oracle (sqlplus)
@@ -17,6 +19,7 @@ Project 2] Create oracle source file (.sql) and run sql query as batch file.
  
  
  Project 3] Create oracle source file (.sql) and run sql query as batch file.
+ 
 
  
 
