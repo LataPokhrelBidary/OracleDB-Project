@@ -3,7 +3,7 @@
 Project 1] Raw Data Normalization.
 
           1.1] convert raw data to 1NF in Excel.
-          1.2] convert above data to 2NF using [Draw.io] (https://app.diagrams.net/).
+          1.2] convert above data to 2NF using [link](https://app.diagrams.net/).
           1.3] convert above data to 3NF using Draw.io. 
 
 
